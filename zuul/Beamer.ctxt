@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Beamer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Beamer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Beamer\n
+comment2.params=room
+comment2.target=void\ charge(Room)
+comment3.params=
+comment3.target=Room\ fire()
+numComments=4
